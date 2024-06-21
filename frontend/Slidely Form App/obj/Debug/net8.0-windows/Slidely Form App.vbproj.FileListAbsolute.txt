@@ -1,0 +1,44 @@
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.MainForm.resources
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.SubmissionForm.resources
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.vbproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.AssemblyInfo.vb
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.exe
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.deps.json
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.runtimeconfig.json
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.dll
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.pdb
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.dll
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\refint\Slidely Form App.dll
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.pdb
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\ref\Slidely Form App.dll
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.ViewSubmissionsForm.resources
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely .49166A3F.Up2Date
+C:\Users\lenovo\Desktop\Slidely Form App\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.EditSubmissionForm.resources
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.exe
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.deps.json
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.runtimeconfig.json
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.dll
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\bin\Debug\net8.0-windows\Slidely Form App.pdb
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.EditSubmissionForm.resources
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.MainForm.resources
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.SubmissionForm.resources
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely_Form_App.ViewSubmissionsForm.resources
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.vbproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.AssemblyInfo.vb
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely .49166A3F.Up2Date
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.dll
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\refint\Slidely Form App.dll
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.pdb
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Windows App Task\frontend\Slidely Form App\obj\Debug\net8.0-windows\ref\Slidely Form App.dll
